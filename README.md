@@ -52,6 +52,6 @@ A detailed reflective case study is available on my [portfolio site](https://chi
 
 ## Author
 
-Chimezie Onuchukwu
+Onuchukwu Joseph Chimezie
 - [Portfolio](https://chimezie-ai-portfolio.netlify.app)
 - [LinkedIn](https://www.linkedin.com/in/onuchukwu-joseph-589912148)
